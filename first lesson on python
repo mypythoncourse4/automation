@@ -1,0 +1,45 @@
+what is variable? 
+what is variable variable ek trah se ke dabba hai jisme koi v value stroe karte hai 
+variable banane ke kuch rule hai 
+variable always start hoga letter isme sirf ek hi specal charcter use kar sakte hai (_)
+variable me koi specaial charcter nahi use kar sakte hai 
+varible kuch exaple ye hai 
+x = 10
+x1 = 10
+x_1 = 10
+is trah se variable bana sakte hai any try to use small charcter but its no important 
+take away ye hai ke aap variable me ki v data store kar sakte hai jisse aapko jab wo data ki jarurat hoga to aapko sirf wo variable ko call karna hai aapko value mil jayega 
+python me variable ka vlue ka memori address banata hai other laungage me vaiable ka memomries banta hai isme uske value ka use hota hai 
+python me variable ka add nikalne ke liey id naam ka function ka use karna hota hai 
+
+
+                             what is string 
+string ek bunch of charcter hai isme aap single qoute double qoute and triple qoute me likh sakte hai 
+string ke ander aap number specail charcter and charcketer sab ka use kar sakte hai 
+string ko concanate karne ke liye + ka use karna hota hai 
+example 
+a = 'hello'
+b = 'hi'
+print(a +b)
+
+python oprator python me total 7 oprator hota hai 
+1 arthmentic oprator 
+2 assingment oprator 
+3 comprasion oprator
+4 logical oprator
+5 bitwise oprator
+6 membership oprator
+7 identitity oprator 
+
+1 arthmetic oprator kya hota hai 
+arthmentic oprator me baiscly mathmatics ka use hota hai 
+artmetic opratomre me ye opartar hai 
++ - * / % ** //
+isme + - * /  ye normal jo plus minus into and divie ka use hota 
+% isko modulus kehnte hai ye reminder vlue deta hai 
+exaple 3/10 than iska remininder kya hai 1 to ye nikalne ke lye use hota hai 
+** ye exponent kehte hai isme aapko  
+3**2 to isme aapko anser aayega 6 isne 3*3 kiya hai 
+3**3 than iska ansser aayega 3*3*3 27 
+                             
+                             
